@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCynz
 - 👀 I’m interested in full stack development, focus on Python
-- 🌱 I’m currently learning PHP and Django
+- 🌱 I’m currently learning more and more Django, it never stops ! :)
 - 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me ...
 
